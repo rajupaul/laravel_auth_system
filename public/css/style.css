@@ -1,0 +1,68 @@
+body{
+	font-family: sans-serif;
+}
+.home-text{
+	color: green;
+}
+
+.top-nav a.active{
+	color:blue!important;
+}
+
+.auth-form{
+	background: #e9ffde;
+	border-radius: 20px;
+	padding:20px 50px 50px  50px;
+}
+
+
+.form-title{
+	color: green;
+	font-size: 20px;
+	font-weight: 600;
+	font-family: arial;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.form-group label{
+	color: #4c544a;
+}
+
+
+label.invalid{
+	color: red;
+	font-size: 13px;
+}
+
+input.invalid{
+	border:1px solid red;
+}
+input.success{
+	border:1px solid green;
+}
+
+.profile-nav a{
+ text-decoration: none;
+}
+
+.profile-nav .active a{
+   color: white!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
